@@ -7,8 +7,8 @@
 // inversion method.
 ///////////////////////////////////////////////////////////
 // Input:
-//   A:         an n x n matrix (?)
-//   b:         an n x 1 vector (?)
+//   A:         an n x n matrix
+//   b:         an n x 1 vector
 //   x0:        initial approximation for the solution 
 //              of the system
 //   error_tol: the error tolerance
